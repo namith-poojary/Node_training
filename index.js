@@ -1,4 +1,3 @@
-console.log("hello");
 
 const pr=new Promise((resolve,reject) =>{
     resolve("Hello");
